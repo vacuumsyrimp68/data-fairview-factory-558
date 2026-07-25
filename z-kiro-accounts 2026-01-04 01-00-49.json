@@ -1,0 +1,10 @@
+[
+  {
+    "accessToken": "aoaAAAAAGlZWQs9yRvreMJPonQFvwq4ApFa43vOpHshtaydHYUDywAe4nyrn4lk56mcjS9sQKuLctKqTDpA36CuGEBkc0:MGYCMQDRZiKFqKxiqlyBWJXqRqDG9B0zU0lfnMU24apvFWfV1WbkXyl5JQfU9pgmEQmy34gCMQCcXpiD3bm4r1BXzXgmgUS0veTiPTCMHLcdARiXS2NDplJYjrdtAIzfiyFptVPPCY8",
+    "refreshToken": "aorAAAAAGnP8fktb54z6Kyq5McBpETYRS6btfIacOpnrH5KDTKC8GctoLk8rOSoHHEUtKNloQptyRh3NGMcVCoXfEBkc0:MGUCMDDILE5rS1esCIAjTYTKUUTWpXmXFo9RKrKZox/uYBRL9XyxIncYXE3vSWjpIrUhuQIxANK4ThMw0QaXh2pfFwc/FCRGFsx/NZkwxEF4/wVz4eVIYX/8ftblaD2hj2BZS5GNFA",
+    "profileArn": "arn:aws:codewhisperer:us-east-1:699475941385:profile/EHGA3GRVQMUK",
+    "expiresAt": "2026-01-03T17:59:40.706Z",
+    "authMethod": "social",
+    "provider": "Google"
+  }
+]
